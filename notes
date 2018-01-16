@@ -1,0 +1,4 @@
+bluetooth idle
+/etc/pulse/default.pa
+#Automatically supend sinks/sources that become idle for too long
+#load-module module-suspend-on-idle
